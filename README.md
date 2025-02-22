@@ -33,17 +33,17 @@ Here are some screenshots of my portfolio:
 
 - **Homepage** :
 
-  ![Homepage](https://github.com/user-attachments/assets/eeaf5a64-89ca-44de-beeb-c2f65041f89f)
+  ![Homepage]()
 
 
 - **Projects Section**:
   
-  ![Projects](https://github.com/user-attachments/assets/d6f6b870-c4a8-437a-91e9-eab26052dd8f)
+  ![Projects]()
 
 
 - **Contact Form**:
   
-  ![Contact](https://github.com/user-attachments/assets/1235e9f7-1a03-4017-9c07-c9ca70c0714b)
+  ![Contact]()
 
 
 
