@@ -61,7 +61,7 @@ Here are some screenshots of my portfolio:
 
 ## 📫 Contact Me
 
-For any questions or feedback, you can reach me at [paulsantanu968@gmail.com](mailto:swagatamadhikary501@gmail.com).
+For any questions or feedback, you can reach me at [swagatamadhikary501@gmail.com](mailto:swagatamadhikary501@gmail.com).
 
 
 ## Thank you for visiting my portfolio! I hope you find it informative and engaging. 😊 
