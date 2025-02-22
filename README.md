@@ -33,17 +33,17 @@ Here are some screenshots of my portfolio:
 
 - **Homepage** :
 
-  ![Homepage]()
+  ![Homepage](https://github.com/swagatamadhikary018/Personal_Portfolio/blob/548f6ff6c60f532508bbbc0de846e8b1049889ea/homepage.png)
 
 
 - **Projects Section**:
   
-  ![Projects]()
+  ![Projects](https://github.com/swagatamadhikary018/Personal_Portfolio/blob/548f6ff6c60f532508bbbc0de846e8b1049889ea/projects.png)
 
 
 - **Contact Form**:
   
-  ![Contact]()
+  ![Contact](https://github.com/swagatamadhikary018/Personal_Portfolio/blob/548f6ff6c60f532508bbbc0de846e8b1049889ea/contact.png)
 
 
 
