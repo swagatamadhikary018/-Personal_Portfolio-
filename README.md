@@ -6,7 +6,7 @@ Welcome to My Personal Portfolio Repository! This Project Showcases My About, Sk
 
 You can view my live portfolio at [Here](https://personalportfolio-by-swagatamadhikary.netlify.app/).
 
-Old Webisite Link :- [Here](https://personal-portfolio-swagatamadhikary.netlify.app/)
+Old Webisite Link :- [Website Link Dark/Light Mode](https://personal-portfolio-swagatamadhikary.netlify.app/)
 
 ## 🛠️ Technologies Used
 
